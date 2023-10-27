@@ -13,7 +13,7 @@ Analyzing a dataset of survey responses from individuals in the tech industry. T
 ### [Project: Data Professional Survey Results Visualization (Power Bi)](https://github.com/vancho/Misc/tree/master/Data_Professional_Survey)
 Developing of a comprehensive dashboard using Power BI to analyze and visualize a Data Professional Survey results. The main objective was to transform raw data into meaningful insights that can aid in data-driven decision-making.
 
-### [Project: Supermarket Sales Analysis Visualization](https://github.com/vancho/Misc/tree/master/Supermarket_Sales)
+### [Project: Supermarket Sales Analysis Visualization (Power Bi)](https://github.com/vancho/Misc/tree/master/Supermarket_Sales)
 Creating of an intricate Power BI dashboard to visualize and analyze sales data from a supermarkets network. The overarching aim was to harness the raw sales data to derive actionable insights, facilitating informed decision-making processes.
 
 
