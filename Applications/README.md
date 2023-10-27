@@ -1,4 +1,4 @@
-### Project 1: Applications
+### Project: Applications
 
 **Description:**
 This project aims to clean, manipulate, and analyze two datasets related to applications data using Python, Pandas, Matplotlib, Seaborn. The primary objectives are to prepare the data for analysis by handling missing values, duplicates, and combining datasets, and then to calculate an application rating based on specific criteria. The datasets used include main application data and a supplementary "industries.csv" file that provides industry ratings.
