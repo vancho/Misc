@@ -16,6 +16,11 @@ Developing of a comprehensive dashboard using Power BI to analyze and visualize 
 ### [Project: Supermarket Sales Analysis Visualization (Power Bi)](https://github.com/vancho/Misc/tree/master/Supermarket_Sales)
 Creating of an intricate Power BI dashboard to visualize and analyze sales data from a supermarkets network. The overarching aim was to harness the raw sales data to derive actionable insights, facilitating informed decision-making processes.
 
+### [Project: Bike purchases analysis (Excel)](https://github.com/vancho/Misc/tree/master/Bike_Sales)
+
+**Description:**
+Utilizing Excel to conduct analysis of customer data from a bike-selling retailer operating in multiple regions. The primary objective was to transform and dissect the customer data, aiming to extract key insights that could inform the retailer's marketing and sales strategies. The dataset encompassed detailed information on customer demographics, purchase histories, and preferences.
+
 
 ## Getting Started
 
