@@ -7,6 +7,10 @@ Welcome to my GitHub repository containing a collection of small Projects is Exc
 ### [SQL Murder Mystery (SQL)](https://github.com/vancho/Misc/tree/master/Murder)
 Solution for the SQL Murder Mystery
 
+### [Solutions for all exercises from pgexercises.com (SQL)](https://github.com/vancho/Misc/tree/master/PGExcercises)
+Solutions for all exercises from:
+https://pgexercises.com/gettingstarted.html
+
 ### [Applications (Python)](https://github.com/vancho/Misc/tree/master/Applications)
 Cleaning, manipulating, and analyzing two datasets related to applications data using Python, Pandas, Matplotlib, Seaborn. The primary objectives are to prepare the data for analysis by handling missing values, duplicates, and combining datasets, and then to calculate an application rating based on specific criteria. The datasets used include main application data and a supplementary "industries.csv" file that provides industry ratings.
 
