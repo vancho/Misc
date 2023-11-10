@@ -4,6 +4,10 @@ Welcome to my GitHub repository containing a collection of small Projects is Exc
 
 ## Projects
 
+### [Project: Electric cars of State Washington Analysis and Visualization (Python, Power Bi, Tableau)](https://github.com/vancho/Misc/tree/master/Electric_Cars)
+
+Analyzing and visualizing data pertaining to electric cars. The dataset shows the Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) that are currently registered through Washington State Department of Licensing (DOL). The primary objective is to gain insights into the electric car market trends within the region, utilizing a comprehensive dataset that includes various attributes of electric vehicles.
+
 ### [SQL Murder Mystery (SQL)](https://github.com/vancho/Misc/tree/master/Murder)
 Solution for the SQL Murder Mystery
 
