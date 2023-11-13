@@ -45,6 +45,6 @@ You can explore each project by navigating to its dedicated folder in this repos
 ## Contact
 Email: [ivlukh@gmail.com](mailto:ivlukh@gmail.com)
 
-LinkedIn: [Ivan Luchaninov](https://www.linkedin.com/in/ivan-luchaninov-a5b3713a/)
+LinkedIn: [Ivan Luchaninov](https://www.linkedin.com/in/ivan-luchaninov/)
 
 Feel free to reach out if you have any questions or feedback about the projects.
