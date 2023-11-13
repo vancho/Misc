@@ -4,6 +4,10 @@ Welcome to my GitHub repository containing a collection of small Projects is Exc
 
 ## Projects
 
+### [A/B Test (Python)](https://github.com/vancho/Misc/tree/master/AB_Test)
+
+A/B test analysis to evaluate the effectiveness of two different pricing strategies on user conversion rates. This project combined data manipulation, statistical analysis, and visualization techniques to draw meaningful conclusions from the A/B testing data, aiding in informed decision-making.
+
 ### [Applications (Python)](https://github.com/vancho/Misc/tree/master/Applications)
 Cleaning, manipulating, and analyzing two datasets related to applications data using Python, Pandas, Matplotlib, Seaborn. The primary objectives are to prepare the data for analysis by handling missing values, duplicates, and combining datasets, and then to calculate an application rating based on specific criteria. The datasets used include main application data and a supplementary "industries.csv" file that provides industry ratings.
 
